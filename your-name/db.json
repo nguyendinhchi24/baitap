@@ -1,0 +1,69 @@
+{
+  "library": [
+    {
+      "title": "3f",
+      "quantity": "1",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "lien",
+      "quantity": 1000
+    },
+    {
+      "title": "nguyen dinh chi",
+      "quantity": "10000",
+      "id": 5
+    },
+    {
+      "title": "anh chi",
+      "quantity": "2999",
+      "id": 6
+    },
+    {
+      "title": "aaaa",
+      "quantity": "22222",
+      "id": 7
+    },
+    {
+      "title": "anh chi",
+      "quantity": "102020",
+      "id": 8
+    },
+    {
+      "0": {
+        "title": "3f",
+        "quantity": "2222222",
+        "id": 3
+      },
+      "1": {
+        "id": 4,
+        "title": "lien",
+        "quantity": 1000
+      },
+      "2": {
+        "title": "nguyen dinh chi",
+        "quantity": "10000",
+        "id": 5
+      },
+      "3": {
+        "title": "anh chi",
+        "quantity": "2999",
+        "id": 6
+      },
+      "4": {
+        "title": "aaaa",
+        "quantity": "22222",
+        "id": 7
+      },
+      "5": {
+        "title": "anh chi",
+        "quantity": "102020",
+        "id": 8
+      },
+      "title": "babe",
+      "quantity": "1111",
+      "id": 9
+    }
+  ]
+}
